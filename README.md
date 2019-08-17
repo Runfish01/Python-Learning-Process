@@ -1,5 +1,5 @@
 # Python-Learning-Process
-##记录零基础学习Python的过程
+## 记录零基础学习Python的过程
 
 Version: 0.1
 
